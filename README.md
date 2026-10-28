@@ -10,7 +10,12 @@ Git version control, and documentation workflows.
 - Collaborative contributions
 - Pull request reviews
 
-  ## GitHub Workflow Practice
+## Project Overview
+
+This repository is used to practice GitHub workflows,
+including forks, branches, commits, and pull requests.
+
+## GitHub Workflow Practice
 
 This project demonstrates:
 - Repository forking
