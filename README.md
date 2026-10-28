@@ -14,3 +14,12 @@ Git version control, and documentation workflows.
 
 This repository is used to practice GitHub workflows,
 including forks, branches, commits, and pull requests.
+
+## GitHub Workflow Practice
+
+This project demonstrates:
+- Repository forking
+- Branch management
+- Git commits
+- Pull request creation
+- Code review and merging
