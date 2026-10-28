@@ -9,3 +9,12 @@ Git version control, and documentation workflows.
 - Git branching
 - Collaborative contributions
 - Pull request reviews
+
+  ## GitHub Workflow Practice
+
+This project demonstrates:
+- Repository forking
+- Branch management
+- Git commits
+- Pull request creation
+- Code review and merging
